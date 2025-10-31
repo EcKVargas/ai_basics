@@ -1,0 +1,13 @@
+# Starter requirements for the training workspace
+# Update this file with exact pinned versions by running:
+#   pip freeze > requirements.txt
+
+gen_ai_hub
+openai
+mcp
+httpx
+requests
+urllib3
+certifi
+anyio
+pydantic
